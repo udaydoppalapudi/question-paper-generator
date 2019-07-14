@@ -16,12 +16,15 @@ to bundle your application
 
 
 To execute the project, follow the below steps - 
+
 ```
-**npm install**
+npm install
 ```
+
 Download all the dependencies for running the application.
 
 ```
-**npm start**
+npm start
 ```
+
 Starts the webpack server in your local machine. The application will be demoable.
